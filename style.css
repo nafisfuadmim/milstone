@@ -1,5 +1,9 @@
-.body font-style{font-family: 'Yeon Sung', cursive;
-
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Yeon Sung', cursive;
 }
 .width{
     width: 38%;
